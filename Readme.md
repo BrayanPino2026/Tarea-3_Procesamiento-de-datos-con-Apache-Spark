@@ -1,8 +1,6 @@
 # Tarea 3 – Procesamiento de Datos con Apache Spark
-Curso Big Data (202016911) · Universidad Nacional Abierta y a Distancia (UNAD)
 
 Análisis de casos de COVID-19 en Colombia con Apache Spark (procesamiento en batch)
-
 
 
 ---
@@ -55,6 +53,6 @@ Se trabajó con una muestra de 200.000 registros (cerca del 3 % del total). Por 
 
 ## Estudiante
 
-[Brayan Armando Pino Jimenez] · Curso Big Data (202016911) · UNAD
+Brayan Armando Pino Jimenez · Curso Big Data (202016911) · UNAD
 
  
